@@ -28,7 +28,7 @@
         </li>
 
         <li>
-            <a href="/issues/index.php">Issue Book</a>
+            <a href="/book_issue/index.php">Book Issue</a>
         </li>
 
         <li>
