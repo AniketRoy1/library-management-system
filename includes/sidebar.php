@@ -32,7 +32,7 @@
         </li>
 
         <li>
-            <a href="/returns/index.php">Return Book</a>
+            <a href="/book_return/index.php">Return Book</a>
         </li>
 
         <?php if ($_SESSION["role_name"] === "admin"): ?>
